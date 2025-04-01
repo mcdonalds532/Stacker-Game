@@ -1,0 +1,16 @@
+# ninja log v6
+21	502	7652504733336982	CMakeFiles/12_hour_cock.dir/main.cpp.obj	450ef5974793836d
+30	488	7652504733427000	CMakeFiles/12_hour_cock.dir/Game.cpp.obj	700755516d84ad93
+328	820	7554618665288302	12_hour_cock.exe	d3ded6d167932776
+28	507	7652504733406986	CMakeFiles/12_hour_cock.dir/Board.cpp.obj	d291e8cd93cf9577
+1	251	7652506368662415	build.ninja	f27069a677aefea7
+25	420	7652504733376985	CMakeFiles/12_hour_cock.dir/Block.cpp.obj	f0d47ddeb4fc9d4f
+36	413	7652504733487007	CMakeFiles/12_hour_cock.dir/SoundManager.cpp.obj	28f06414f6a9531d
+33	484	7652504733457001	CMakeFiles/12_hour_cock.dir/SplashScreen.cpp.obj	88207364ac0d6a0f
+19	380	7652506433272402	CMakeFiles/12_hour_cock.dir/SoundManager.cpp.obj	e1ca3fcc1df060b5
+8	383	7652506433172413	CMakeFiles/12_hour_cock.dir/Block.cpp.obj	414b953b565966b6
+16	427	7652506433242416	CMakeFiles/12_hour_cock.dir/SplashScreen.cpp.obj	4eab65b1e7a234e8
+5	450	7652506433142401	CMakeFiles/12_hour_cock.dir/main.cpp.obj	f6ed0b2128714b56
+13	455	7652506433222404	CMakeFiles/12_hour_cock.dir/Game.cpp.obj	13e450d7796d1ecd
+11	457	7652506433192444	CMakeFiles/12_hour_cock.dir/Board.cpp.obj	4c295593b18b84ef
+457	1089	7652506437652438	12_hour_cock.exe	feb82246426a2b80
